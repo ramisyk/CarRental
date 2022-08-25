@@ -35,6 +35,7 @@
   <ItemGroup>
     <ProjectReference Include="..\CarRental.Domain\CarRental.Domain.csproj" />
     <ProjectReference Include="..\..\..\corePackages\Core.Persistence\Core.Persistence.csproj" />
+    <ProjectReference Include="..\..\..\corePackages\Core.CrossCuttingConcers\Core.CrossCuttingConcerns.csproj" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
