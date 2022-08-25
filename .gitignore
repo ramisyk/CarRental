@@ -45,3 +45,5 @@ msbuild.wrn
 
 # Uploaded Files
 **/resource/
+.DS_Store
+src/.DS_Store
