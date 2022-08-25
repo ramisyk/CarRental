@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{54045433-AC9A-4418-B85B-463F31ACF1DD}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.src.demoProjects.carRental.CarRental.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/demoProjects/carRental/CarRental.Persistence/Contexts/CarRentalDbContext.cs">
+    <Files>
+      <File FileName="src/demoProjects/carRental/CarRental.Persistence/DesignTimeDbContextFactory.cs" Line="12" Column="50" />
+      <File FileName="src/demoProjects/carRental/CarRental.Persistence/PersistenceServiceRegistration.cs" Line="18" Column="132" />
+      <File FileName="src/demoProjects/carRental/CarRental.WebAPI/appsettings.json" Line="10" Column="51" />
+      <File FileName="src/demoProjects/carRental/CarRental.Persistence/Contexts/CarRentalDbContext.cs" Line="31" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="nArchitecture" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="demoProjects" expanded="True">
+                <Node name="carRental" expanded="True">
+                  <Node name="CarRental.Persistence" expanded="True">
+                    <Node name="Contexts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
