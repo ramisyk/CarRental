@@ -2,6 +2,8 @@
 *.*~
 project.lock.json
 .DS_Store
+*/.DS_Store
+**/.DS_Store
 *.pyc
 nupkg/
 
@@ -30,6 +32,8 @@ bld/
 [Oo]bj/
 */[Bb]in/
 */[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
 [Oo]ut/
 msbuild.log
 msbuild.err
